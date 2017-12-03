@@ -1,0 +1,13 @@
+nav a {
+    cursor: pointer;
+}
+#bmg {
+    background-image: url('../assets/img/topbackground.png');
+}
+.navbar, .navbar button {
+    background-color: transparent !important;
+    border: none !important;
+}
+.navbar a {
+    color: white !important;
+}

@@ -1,0 +1,29 @@
+#bmg {
+    background-image: url('../../assets/img/topbackground.png');
+}
+#mycarousel h1, #mycarousel h3 {
+    color: white !important;
+}
+.tab-pane img {
+    margin: 20px auto 0;
+}
+form {
+    margin-bottom: 1em;
+}
+.form1 {
+    background-color: #e67624;
+    border-radius: 5px;
+}
+.form2 {
+    background-color: #01d4f3;
+    border-radius: 5px;
+}
+.footer {
+    background-image: url('../../assets/img/footer.png');
+}
+.footer h3, .footer h5, .footer h1, .footer h6 {
+    color: white;
+}
+#forms .col-sm-12:nth-child(1) {
+    margin-bottom: 20px;
+}
